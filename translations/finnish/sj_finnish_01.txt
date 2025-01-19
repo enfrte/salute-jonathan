@@ -1,0 +1,222 @@
+## Chapter 1
+## Luku 1
+
+A man stands in a city.
+Mies seisoo kaupungissa.
+
+The man writes a journal.
+Mies kirjoittaa päiväkirjaa.
+
+The man sees a city.
+Mies näkee kaupungin.
+
+Does the man stand in a city?
+Seisooko mies kaupungissa?
+
+Yes, he stands in a city.
+Kyllä, hän seisoo kaupungissa.
+
+Does the man stand in...a man?
+Seisooko mies...miehessä?
+
+No, he does not stand in a man.
+Ei, hän ei seiso miehessä.
+
+He stands in a city.
+Hän seisoo kaupungissa.
+
+Does the man stand in a train?
+Seisooko mies junassa?
+
+No, he does not stand in a train.
+Ei, hän ei seiso junassa.
+
+He stands in a city.
+Hän seisoo kaupungissa.
+
+The man stands in a city.
+Mies seisoo kaupungissa.
+
+Does the man write a journal?
+Kirjoittaako mies päiväkirjaa?
+
+Yes, he writes a journal.
+Kyllä, hän kirjoittaa päiväkirjaa.
+
+Does the journal write the man?
+Kirjoittaako päiväkirja miestä?
+
+No, the journal does not write the man.
+Ei, päiväkirja ei kirjoita miestä.
+
+A journal does not write.
+Päiväkirja ei kirjoita.
+
+A man writes.
+Mies kirjoittaa.
+
+The man writes the journal.
+Mies kirjoittaa päiväkirjaa.
+
+Does the city see the man?
+Näkeekö kaupunki miehen?
+
+No, the city does not see the man.
+Ei, kaupunki ei näe miestä.
+
+A city does not see.
+Kaupunki ei näe.
+
+A man sees.
+Mies näkee.
+
+Does the man see the city?
+Näkeekö mies kaupungin?
+
+Yes, the man sees the city.
+Kyllä, mies näkee kaupungin.
+
+Where does the man stand?
+Missä mies seisoo?
+
+He stands in a city.
+Hän seisoo kaupungissa.
+
+What does the man write?
+Mitä mies kirjoittaa?
+
+He writes a journal.
+Hän kirjoittaa päiväkirjaa.
+
+What does the man see?
+Mitä mies näkee?
+
+He sees a city.
+Hän näkee kaupungin.
+
+He stands in a city, and he writes a journal, and he sees a city.
+Hän seisoo kaupungissa, ja hän kirjoittaa päiväkirjaa, ja hän näkee kaupungin.
+
+Does the man stand in a journal?
+Seisooko mies päiväkirjassa?
+
+No, he writes in a journal.
+Ei, hän kirjoittaa päiväkirjaan.
+
+Does the man see a man?
+Näkeekö mies miehen?
+
+No, he does not see a man; he sees a city.
+Ei, hän ei näe miestä; hän näkee kaupungin.
+
+The man is big.
+Mies on iso.
+
+The man is good, and the man is intelligent.
+Mies on hyvä, ja mies on älykäs.
+
+He thinks.
+Hän ajattelee.
+
+He thinks about the city.
+Hän ajattelee kaupunkia.
+
+He thinks: "What is the city? Is the city good? Is the city big?"
+Hän ajattelee: "Mikä on kaupunki? Onko kaupunki hyvä? Onko kaupunki iso?"
+
+Does the man write a city?
+Kirjoittaako mies kaupungin?
+
+No, he does not write a city; a city is big.
+Ei, hän ei kirjoita kaupunkia; kaupunki on iso.
+
+He writes a journal; a journal is not big.
+Hän kirjoittaa päiväkirjaa; päiväkirja ei ole iso.
+
+Does the journal think about the man?
+Ajatteleeko päiväkirja miestä?
+
+No, a journal does not think.
+Ei, päiväkirja ei ajattele.
+
+A man thinks.
+Mies ajattelee.
+
+He thinks about the journal, and thinks about the city.
+Hän ajattelee päiväkirjaa, ja ajattelee kaupunkia.
+
+And he writes in the journal.
+Ja hän kirjoittaa päiväkirjaan.
+
+He writes about the city.
+Hän kirjoittaa kaupungista.
+
+He writes: "The city is good, and the city is big."
+Hän kirjoittaa: "Kaupunki on hyvä, ja kaupunki on iso."
+
+He thinks: "The city is good"; he thinks that the city is good.
+Hän ajattelee: "Kaupunki on hyvä"; hän ajattelee, että kaupunki on hyvä.
+
+He thinks: "The city is big"; he thinks that the city is big.
+Hän ajattelee: "Kaupunki on iso"; hän ajattelee, että kaupunki on iso.
+
+He thinks about the city, and he thinks about the journal.
+Hän ajattelee kaupunkia, ja hän ajattelee päiväkirjaa.
+
+What is the journal?
+Mikä on päiväkirja?
+
+The journal is where the man writes; he writes in the journal.
+Päiväkirja on se, mihin mies kirjoittaa; hän kirjoittaa päiväkirjaan.
+
+In the journal, the man writes about the city.
+Päiväkirjassa mies kirjoittaa kaupungista.
+
+In the journal, the man does not write about the train; the man stands in the city, not in the train.
+Päiväkirjassa mies ei kirjoita junasta; mies seisoo kaupungissa, ei junassa.
+
+He does not think about the train; he thinks about the city, the city Munich.
+Hän ei ajattele junaa; hän ajattelee kaupunkia, kaupunkia Müncheniä.
+
+What is the city?
+Mikä on kaupunki?
+
+It is Munich.
+Se on München.
+
+Where is Munich?
+Missä on München?
+
+It is where the man stands.
+Se on siellä, missä mies seisoo.
+
+Where is the man?
+Missä mies on?
+
+He is in Munich.
+Hän on Münchenissä.
+
+Yes, Munich is a big city, and a good city.
+Kyllä, München on iso kaupunki, ja hyvä kaupunki.
+
+The man thinks that Munich is a good city, and he thinks that it is a big city.
+Mies ajattelee, että München on hyvä kaupunki, ja hän ajattelee, että se on iso kaupunki.
+
+The man is intelligent.
+Mies on älykäs.
+
+He says: "Hello, Munich!" He is a good man!
+Hän sanoo: "Terve, München!" Hän on hyvä mies!
+
+The man stands and thinks: "Where is the train?"
+Mies seisoo ja ajattelee: "Missä on juna?"
+
+He sees...he sees the train!
+Hän näkee...hän näkee junan!
+
+He thinks: "The train!"
+Hän ajattelee: "Juna!"
+
+Now he does not think about the journal and does not think about the city; he thinks about the train!
+Nyt hän ei ajattele päiväkirjaa eikä ajattele kaupunkia; hän ajattelee junaa!
+

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS -->
+	<link href="/salute-jonathan/assets/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/salute-jonathan/assets/css/custom.css?v=20240802" rel="stylesheet">
+	<!-- JS 3rd party -->
+    <script src="/salute-jonathan/assets/js/htmx.min.js"></script>
+    <script src="/salute-jonathan/assets/js/bootstrap.bundle.min.js"></script>
+    <title>Salute Jonathan</title>
+</head>    
+<body class="bg-dark">
+
+    <div style="max-width: 1000px;" class="container mb-3 mt-3">
+        <select 
+            name="lang"
+            class="form-select"
+            hx-get="/salute-jonathan/reader.php"
+            hx-trigger="change"
+            hx-target="#translation-table tbody">
+            <option value="">Select a translation</option>
+            <option value="finnish">Finnish</option>
+        </select>
+    </div>
+
+    <div style="max-width: 1000px;" class="container bg-light">
+        <table id="translation-table" class="table">
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>

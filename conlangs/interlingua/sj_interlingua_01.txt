@@ -1,0 +1,715 @@
+## Chapter 1.
+
+A man stands in a city. 
+Un viro sta in un citate.
+
+The man writes a journal. 
+Le viro scribe un jornal.
+
+The man sees a city.
+Le viro vide un citate. 
+
+Does the man stand in a city? 
+Esque le viro sta in un citate?
+
+Yes, he stands in a city.
+Si, ille sta in un citate. 
+
+Does the man stand in...a man? 
+Esque le viro sta in...un viro?
+
+No, he does not stand in a man. 
+No, ille non sta in un viro.
+
+He stands in a city.
+Ille sta in un citate. 
+
+Does the man stand in a train? 
+Esque le viro sta in un traino?
+
+No, he does not stand in a train. 
+No, ille non sta in un traino.
+
+He stands in a city. 
+Ille sta in un citate. 
+
+The man stands in a city.
+Le viro sta in un citate.
+
+Does the man write a journal? 
+Esque le viro scribe un jornal?
+
+Yes, he writes a journal.
+Si, ille scribe un jornal.
+
+Does the journal write the man? 
+Esque le jornal scribe le viro? 
+
+No, the journal does not write the man. 
+No, le jornal non scribe le man.  
+
+A journal does not write. 
+Un jornal non scribe.
+
+A man writes. 
+Un viro scribe. 
+
+The man writes the journal.
+Le man scribe le jornal.
+
+Does the city see the man? 
+Esque le citate vide le viro?
+
+No, the city does not see the man. 
+No, le citate non vide le viro.
+
+A city does not see. 
+Un citate non vide. 
+
+A man sees. 
+Un viro vide. 
+
+Does the man see the city? 
+Esque le viro vide le citate? 
+
+Yes, the man sees the city.
+Si, le viro vide le citate.
+
+Where does the man stand? 
+Ubi sta le viro?
+
+He stands in a city. 
+Ille sta in un citate.
+
+What does the man write? 
+Que scribe le viro?
+
+He writes a journal. 
+Ille scribe un jornal.
+
+What does the man see? 
+Que vide le viro? 
+
+He sees a city.
+Ille vide un citate. 
+
+He stands in a city, and he writes a journal, and he sees a city.
+Ille sta in un citate, e ille scribe un jornal, e ille vide un citate. 
+
+Does the man stand in a journal? 
+Esque le viro sta in un jornal?
+
+No, he writes in a journal. 
+No, ille scribe in un jornal.
+
+Does the man see a man? 
+Esque le viro vide un viro? 
+
+No, he does not see a man; he sees a city.
+No, ille non vide un viro; ille vide un citate. 
+
+The man is big. 
+Le viro es grande.
+
+The man is good, and the man is intelligent. 
+Le viro es bon, e le viro es intelligente. 
+
+He thinks. 
+Ille pensa.
+
+He thinks about the city. 
+Ille pensa re le citate.
+
+He thinks: "What is the city? Is the city good? Is the city big?"
+Ille pensa: "Que es le citate? Esque le citate grande?"
+
+Does the man write a city? 
+Esque le viro scribe un citate?
+
+No, he does not write a city; a city is big. 
+No, ille non scribe un citate; un citate es grande. 
+
+He writes a journal; a journal is not big.
+Ille scribe un jornal; un jornal non es grande.
+
+Does the journal think about the man? 
+Esque le jornal pensa re le viro?
+
+No, a journal does not think. 
+No, un jornal non pensa.
+
+A man thinks. 
+Un viro pensa. 
+
+He thinks about the journal, and thinks about the city.
+Ille pensa re le jornal, e pensa re le citate.
+
+And he writes in the journal. 
+E ille scribe in le jornal.
+
+He writes about the city. 
+Ille scribe re le citate. 
+
+He writes: "The city is good, and the city is big."
+Ille scribe: "Le citate es bon, e le citate es grande."
+
+He thinks: "The city is good"; he thinks that the city is good. 
+Ille pensa: "Le citate es bon"; ille pensa que le citate es bon. 
+
+He thinks: "The city is big"; he thinks that the city is big. 
+Ille pensa: "Le citate es grande"; ille pensa que le citate es grande. 
+
+He thinks about the city, and he thinks about the journal.
+Ille pensa re le citate, e ille pensa re le jornal. 
+
+What is the journal?
+Que es le jornal?
+
+The journal is where the man writes; he writes in the journal. 
+Le jornal es ubi le viro scribe; ille scribe in le jornal.
+
+In the journal, the man writes about the city. 
+In le jornal, le viro scribe re le citate.
+
+In the journal, the man does not write about the train; the man stands in the city, not in the train. 
+In le jornal, le viro non scribe re le traino; le viro sta in le citate, non in le traino. 
+
+He does not think about the train; he thinks about the city, the city Munich.
+Ille non pensa re le traino; ille pensa re le citate, le citate Munich. 
+
+What is the city? 
+Que es le citate?
+
+It is Munich. 
+Illo es Munich.
+
+Where is Munich? 
+Ubi es Munich?
+
+It is where the man stands. 
+Illo es ubi le viro sta. 
+
+Where is the man? 
+Ubi es le viro?
+
+He is in Munich.
+Ille es in Munich. 
+
+Yes, Munich is a big city, and a good city. 
+Si, Munich es un grande citate, e un bon citate.
+
+The man thinks that Munich is a good city, and he thinks that it is a big city. 
+Le viro pensa que Munich es un bon citate, e ille pensa que illo es un grande citate.
+
+The man is intelligent. 
+Le viro es intelligente.
+
+He says: "Hello, Munich!" 
+Ille dice: "Salute, Munich"
+
+He is a good man!
+Ille es un bon viro!
+
+The man stands and thinks: "Where is the train?" 
+Le viro sta e pensa: "Ubi es le traino?"
+
+He sees...he sees the train! 
+Ille vide...ille vide le traino! 
+
+He thinks: "The train!" 
+Ille pensa: "Le traino!"
+
+Now he does not think about the journal and does not think about the city; he thinks about the train!
+Ora ille non pensa re le jornal e non pensa re le citate; ille pensa re le traino!
+
+
+## Chapter 2
+## Capitulo 2
+
+Now the man is in the train.
+Ora le viro es in le traino.
+
+He is not in Munich; he is in a train.
+Ille non es in Munich; ille es in un traino.
+
+He travels.
+Ille viagia.
+
+He thinks: "Now I travel from Munich to Vienna.
+Ille pensa: "Ora io viagia de Munich a Vienna.
+
+It is a good journey.
+Illo es un bon viage.
+
+I love journeys."
+Io ama viages."
+
+He thinks about Munich.
+Ille pensa re Munich. 
+
+He thinks: "Now I am in the train, but yesterday I was in Munich.
+Ille pensa: "Ora io es in le traino, ma heri io era in Munich.
+
+And now I write a journal in the train, but yesterday I wrote a journal in Munich.
+E ora io scribe un jornal in le traino, ma heri io scribeva un jornal in Munich.
+
+And now I think in the train, but yesterday I thought in Munich.
+E ora io pensa in le traino, ma heri io pensava in Munich.
+
+Yesterday I thought about Munich in Munich, and now I think about Vienna in the train.
+Heri io pensava re Munich in Munich, e ora io pensa re Vienna in le traino.
+
+Now I am in the train, not in Vienna.
+Ora io es in le traino, non in Vienna.
+
+But I think and write about Vienna."
+Ma io pensa e scribe re Vienna."
+
+Does the man now think in Munich?
+Esque le viro ora pensa in Munich?
+
+No, he now does not think in Munich.
+No, ille ora non pensa in Munich.
+
+He thinks in the train.
+Ille pensa in le traino.
+
+Yesterday he thought in Munich.
+Heri ille pensava in Munich.
+
+He says: "Hello, train!"
+Ille dice: "Salute, traino!"
+
+The man is in the train, and he travels to a city.
+Le viro es in le traino, e ille viagia a un citate.
+
+The city is not Munich; Munich is the city of yesterday.
+Le citate non es Munich; Munich es le citate de heri. 
+
+The city is Vienna; Vienna is the city of today.
+Le citate es Vienna; Vienna es le citate de hodie. 
+
+The man thinks about Munich and Vienna.
+Le viro pensa re Munich e Vienna.
+
+He thinks: "Munich was the city of yesterday, and Munich was good.
+Ille pensa: "Munich era le citate de heri, e Munich era bon. 
+
+Now it is today, and I am in a train; the train is good.
+Nuc es hodie, e io es in un traino; le traino es bon.
+
+Will Vienna be good?"
+Va Vienna esser bon?"
+
+The man thinks about Munich: Munich was the city of yesterday.
+Le viro pensa re Munich: Munich era le citate de heri.
+
+He thinks in the train: he is in the train today.
+Ille pensa in le traino: ille es in le traino hodie.
+
+And he thinks about Vienna: Vienna will be the city of tomorrow.
+E ille pensa re Vienna: Vienna ve esser le citate de deman. 
+
+And he thinks: "Munich was big.
+E ille pensa: "Munich era grande.
+
+The train is big.
+Le traino es grande.
+
+Will Vienna be big?"
+Va Vienna esser grande?" (Esque Vienna va esser grande?)
+
+And he thinks: "In Munich I wrote in a journal.
+E ille pensa: "In Munich io scribeva in un jornal.
+
+In the train I write in a journal.
+In le traino io scribe in un jornal.
+
+Will I write in a journal in Vienna?
+Va io scriber in un jornal in Vienna? (Esque io va scriber...)
+
+Yes, tomorrow in Vienna I will write in a journal.
+Si, deman in Vienna io va scriber in un jornal.
+
+I love journals."
+Io ama jornales."
+
+The man thinks a lot (he thinks a lot = he thinks and thinks and thinks), and he writes a lot.
+Le viro pensda multo (ille pensa multo = ille pensa e pensa), e ille scribe multo.
+
+Yes, he is an intelligent man.
+Si, ille es un viro intelligente. 
+
+Intelligent men write a lot, and think a lot.
+Viros intelligente scribe multo, e pensa multo. 
+
+He is Jonathan; Jonathan is an intelligent man.
+Ille es Jonathan; Jonathan es un viro intelligente.
+
+He writes: "I am Jonathan.
+Ille scribe: "Io es Jonathan.
+
+I am in a train.
+Io es in un traino.
+
+Yesterday I stood in Munich; tomorrow I will stand in Vienna."
+Heri io stava in Munich; deman io va star in Vienna."
+
+He thinks, and writes: "The train...it is good, but old.
+Ille pensa, e scribe: "Le traino...illo es bon, ma vetere.
+
+It is not new; it is old.
+Illo non es nove; illo es vetere. 
+
+Are the trains in Munich old?
+Esque le trainos in Munich es vetere? 
+
+Yes, the trains of Munich are old.
+Si, le trainos de Munich es vetere.
+
+But the trains of Munich are good, and I love the trains of Munich.
+Ma le trainos de Munich es bon, e io ama le trainos de Munich.
+
+Yesterday I loved the train in Munich, and today I love the train now, and tomorrow I will love the train in Vienna.
+Heri, io amava le traino in Munich, e hodie io ama le traino ora, e deman io va amar le traino in Vienna.
+
+I love trains!"
+Io ama trainos!"
+
+Jonathan writes: "Munich is a good city and an old city, and Vienna is a good city and an old city.
+Jonathan scribe: "Munich es un bon citate e un citate vetere, e Vienna es un bon citate e un citate vetere. 
+
+Munich and Vienna are not new, but are good.
+Munich e Vienna non es nove, ma es bon. 
+
+Munich and Vienna are old, but good cities.
+Munich e Vienna es vetere, ma bon citates.
+
+The cities are not new, but good.
+Le citates non es nove, ma bon. 
+
+I love cities!"
+Io ama citates!"
+
+Jonathan thinks that the second day of travel is good.
+Jonathan pensa que le secunde die de viage es bon. 
+
+He says: "Today was a good second day of travel.
+Ille dice: "Hodie era un bon secunde die de viage.
+
+I love journeys!"
+Io ama viages!"
+
+
+# Chapter 3
+# Capitulo 3
+
+Jonathan stands in Vienna: the city of Vienna.
+Jonathan sta in Vienna: le citate de Vienna.
+
+Jonathan thinks that Vienna is good, and that Vienna is beautiful.
+Jonathan pensa que Vienna es bon, e que Vienna es belle.
+
+Jonathan does not think that Vienna is ugly; he thinks that Vienna is beautiful.
+Jonathan non pensa que Vienna es fede; ille pensa que Vienna es belle.
+
+He says: "Vienna is a beautiful city! I will write about it!"
+Ille dice: "Vienna es un belle citate! Io re lo va scriber!"
+
+And he writes in the journal about Vienna.
+E ille scribe in le jornal re Vienna.
+
+In the journal he writes: "My third day is very good! 
+In le jornal ille scribe: "Mi tertie die es multo bon! 
+
+On the second day I stood in Munich. 
+In le secunde die io stava in Munich.
+
+But now I stand in Vienna: Vienna is not Munich."
+Ma ora io sta in Vienna: Vienna non es Munich."
+
+Munich and Vienna are two cities; Munich is not Vienna and Vienna is not Munich.
+Munich e Vienna es duo citates; Munich non es Vienna e vienna non es Munich. 
+
+I stand in Vienna and the city is very beautiful.
+Io sta in Vienna e le citate es multo belle.
+
+I love Vienna; the city is not ugly.
+Io ama Vienna; le citate non es fede. 
+
+How beautiful Vienna is! But I have a problem."
+Como belle es Vienna! (Is it correct to keep the SVO order here?) Ma io habe un problema."
+
+What? Jonathan has a problem? What problem?
+Que? Jonathan habe un problema? Quo problema?
+
+Now he does not see the journal; he sees the city and thinks.
+Ora ille non vide le jornal; ille vide le citate e pensa. 
+
+He thinks a lot about the problem.
+Ille pensa multo re le problema. 
+
+Jonathan's problem is that he loves Vienna, but he does not have time.
+Le problema de Jonathan es que ille ama Vienna, ma ille non habe tempore. 
+
+He thinks: "Hmm. Now it is seven (7) o'clock. At ten (10) o'clock the train departs."
+Ille pensa: "Hmm. Nunc es septe (7) horas. A dece (10) horas le traino parti."
+
+Ten (10) hours minus seven (7) hours is three (3) hours.
+Dece horas minus septe horas es tres (3) horas.
+
+Three hours is not much time for a beautiful city!
+Tres horas non es multo tempore pro un belle citate!
+
+I do not have time.
+Io non habe tempore.
+
+Having time is good, but I do not have it!
+Haber tempore es bon, ma io lo non habe!
+
+Writing a journal is good, but I do not have time to write it!
+Scriber un jornal es bon, ma io non habe tempore pro scriber lo!
+
+What to do in Vienna?"
+Que facer in Vienna?"
+
+He thinks: "I do not have much time. 
+Ille pensa: "Io non habe multo tempore.
+
+What to do - write a journal, or eat, or see the city? 
+Que facer - scriber un jornal, o mangiar, o vider le citate?
+
+What will I do?"
+Que va io facer?"
+
+He thinks more, and says: "I have a good idea! One moment...I think. 
+Ille pensa plus, e dice: "Io habe un bon idea! Un momento...io pensa.
+
+My train departs at ten (10) o'clock. 
+Mi traino parti a dece horas.
+
+Is there a train later, at eleven (11) o'clock, or twelve (12), thirteen (13), fourteen (14) or fifteen (15) o'clock?"
+Esque il ha (or just, Ha il...?) un traino plus tarde, a dece-un horas, o dece-duo, dece-tres, dece-quatro o dece-cinque horas?"
+
+He sees...yes! There is a train which departs at fifteen o'clock.
+Ille vide...si! Il ha un traino que parti a dece-cinque horas.
+
+Now Jonathan is happy.
+Nunc Jonathan es felice.
+
+Jonathan says: "Fifteen (15) minus seven (7) is eight (8). 
+Jonathan dice: "Dece-cinque minus septe es octo.
+
+Now I have eight hours of time! 
+Ora io habe octo horas de tempore! 
+
+What will I do?"
+Que va io facer?"
+
+He says: "I know! I will eat a steak. 
+Ille dice: "Io sape! Io va mangiar un beefsteak. 
+
+And I will drink a beer. 
+E io va biber un bira.
+
+One moment...no, I will drink two beers, or three beers. 
+Un momento...no, io va biber duo biras, o tres biras.
+
+Good idea!"
+Bon idea!"
+
+Now Jonathan drinks a beer in Vienna, and eats a steak.
+Ora Jonathan bibe un bira in Vienna, e mangia un beefsteak.
+
+He is happy.
+Ille es felice.
+
+He says: "How happy I am! I love the city of Vienna. 
+Ille dice: "Como felice io es! Io ama le citate de Vienna.
+
+How I love journeys!"
+Como io ama viages!"
+
+
+## Chapter 4
+## Capitulo 4
+
+Where is Jonathan? 
+Ubi es Jonathan? 
+
+Is he in Vienna? 
+Esque ille es in Vienna? 
+
+No, he is in a different city. 
+No, ille es in un differente citate. 
+
+He is in Bistritz. 
+Ille es in Bistritz.
+
+What is Bistritz? 
+Que es Bistritz?
+
+It is a city in Romania. 
+Illo es un citate in Romania. 
+
+Now begins the journey in Romania.
+Ora comencia le viage in Romania. 
+
+Jonathan writes in his journal: "The first of May I was in Munich. 
+Jonathan scribe in su jornal: "Le prime de maio io era in Munich.
+
+The second of May I was in Vienna. 
+Le secunde de maio io era in Vienna.
+
+Then I was in Budapest. 
+Pois io era in Budapest. 
+
+Budapest was beautiful. 
+Budapest era belle.
+
+But I didn't have time in Budapest. 
+Ma io non habe tempore in Budapest.
+
+I saw the streets in Budapest. 
+Io videva le stratas in Budapest.
+
+In Budapest I thought: here ends the west, and here begins the east. 
+In Budapest io pensava: ci fini le occidente, e ci comencia le oriente.
+
+Budapest is different."
+Budapest es differente."
+
+He thinks a bit more about Budapest. 
+Ille pensa un poco plus super Budapest.
+
+He thinks: "I am a person who comes from England, from London. 
+Ille pensa: "Io es un persona qui veni de anglese. 
+
+I speak English, because the people in England speak English. 
+Io parla le anglese, proque le personas in anglese parla anglese. 
+
+But in Budapest I didn't speak with people in English; I spoke in German. 
+
+
+My German isn't good, but the people in Budapest don't speak English. 
+
+
+We spoke in German. 
+
+
+It is interesting that the people in Budapest speak German."
+
+
+Now Jonathan thinks about his journey. 
+
+
+He thinks: "I was in the museum in London. 
+
+
+In the museum were books about another land. 
+
+
+I read the books. 
+
+
+In the museum were maps about another land. 
+
+
+I saw the maps. 
+
+
+The books and maps said that the other land is far away, but interesting. 
+
+
+In the other land are many people, many different people."
+
+
+Now Jonathan thinks more about his journey.
+
+
+He thinks: "Yesterday I was in Klausenburg.
+
+
+I ate in Klausenburg.
+
+
+The name of the food was 'paprika hendl'.
+
+
+It is very good, the food in Klausenburg.
+
+
+The hotel was good, but I didn't sleep well.
+
+
+But the land is very beautiful! In the train I saw many villages and many castles.
+
+
+A city is bigger than a village, but the villages are very beautiful.
+
+
+A castle is bigger than a hotel, and more beautiful than a hotel! 
+
+
+Villages are smaller than cities, but they are beautiful, and hotels are smaller than castles."
+
+
+Jonathan writes more in his journal: "Bistritz is an interesting place.
+
+
+Bistritz is an old place, older than other places.
+
+
+Also my hotel in Bistritz is old, older than other hotels.
+
+
+In the hotel I said my name: 'I am Jonathan Harker' and they said to me: 'Welcome to the hotel.' 
+
+
+In the hotel I saw a letter for me.
+
+
+Now I will read my letter."
+
+
+Jonathan reads his letter.
+
+
+It says: My friend. - Welcome.
+
+
+Sleep well.
+
+
+I am in Bukovina, please come to Bukovina.
+
+
+Was the journey from London good? My land is very beautiful.
+
+
+Welcome to my land.
+
+
+Your friend, DRACULA.
+
+
+Jonathan reads the letter and thinks about his friend Count Dracula.
+
+
+Who is he? 
+
+
+He doesn't know.
+
+
+But his friend is interesting.
+
+
+Also the village Bistritz is interesting.
+
+
+Jonathan is happy, and thinks about his friend.
+
+
+Then he sleeps.
+
