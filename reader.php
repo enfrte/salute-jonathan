@@ -1,5 +1,9 @@
 <?php 
 
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 // https://github.com/enfrte/salute-jonathan/blob/master/translations/finnish/sj_finnish_01.txt
 
 if ( !empty($_GET['lang']) ) {
@@ -8,11 +12,11 @@ if ( !empty($_GET['lang']) ) {
 	return 'Language not set';
 }
 
-$chapter = !empty($_GET['chapter']) ? $_GET['chapter'] : 1;
+$chapter = !empty($_GET['chapter']) ? $_GET['chapter'] : '01';
 
-if ($chapter < 10) {
-	$chapter = '0' . $chapter;
-}
+// if ($chapter < 10) {
+// 	$chapter = '0' . $chapter;
+// }
 
 $inDevlopment = false;
 
@@ -59,13 +63,14 @@ if ($chapter < 10) {
 	$chapter = '0' . $chapter;
 }
 
-$nextChapterUrl = __DIR__.'/translations/' . $lang . "/sj_" . $lang . "_" . $chapter. ".txt";
+$nextChapterUrl = $baseUrl . $lang . "/sj_" . $lang . "_" . $chapter. ".txt";
+$headers = @get_headers($nextChapterUrl);
 
-if (file_exists($nextChapterUrl)) {
-	$result .= '<tr><td colspan="2"><a href="reader.php?lang='.$lang.'&chapter='.$chapter.'"><h3 class="mt-2">Next Chapter</h3></a></td></tr>';
+if ($headers && strpos($headers[0], '200') !== false) {
+	$foo = '<tr><td colspan="2"><a href="#" hx-get="reader.php?lang='.$lang.'&chapter='.$chapter.'" hx-trigger="click" hx-target="#translation-table tbody" hx-swap-oob="true"><h3 class="mt-2">Next Chapter</h3></a></td></tr>';
+	$result .= '<tr><td colspan="2"><a href="#" hx-get="reader.php?lang='.$lang.'&chapter='.$chapter.'" hx-trigger="click" hx-target="#translation-table tbody" hx-on:after-request="window.scrollTo(0, 0)"><h3 class="mt-2">Next Chapter</h3></a></td></tr>';
 }
 
-echo $result;
-
+echo $result; // Responce received by HTMX
 
 ?>
