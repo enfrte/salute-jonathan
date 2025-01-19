@@ -14,7 +14,7 @@ if ($chapter < 10) {
 	$chapter = '0' . $chapter;
 }
 
-$inDevlopment = true;
+$inDevlopment = false;
 
 if ($inDevlopment) {
 	$baseUrl = __DIR__.'/translations/';
@@ -25,9 +25,9 @@ else {
 
 $url = $baseUrl . $lang . "/sj_" . $lang . "_" . $chapter. ".txt";
 
-if (file_exists($url)) {
-	$fileContents = file_get_contents($url);
-} else {
+$fileContents = file_get_contents($url);
+
+if ( empty($fileContents) ) {
 	echo "File not found: " . $url;
 	return;
 }
