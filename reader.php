@@ -68,7 +68,7 @@ $headers = @get_headers($nextChapterUrl);
 
 if ($headers && strpos($headers[0], '200') !== false) {
 	$foo = '<tr><td colspan="2"><a href="#" hx-get="reader.php?lang='.$lang.'&chapter='.$chapter.'" hx-trigger="click" hx-target="#translation-table tbody" hx-swap-oob="true"><h3 class="mt-2">Next Chapter</h3></a></td></tr>';
-	$result .= '<tr><td colspan="2"><a href="#" hx-get="reader.php?lang='.$lang.'&chapter='.$chapter.'" hx-trigger="click" hx-target="#translation-table tbody" hx-on:after-request="window.scrollTo(0, 0)"><h3 class="mt-2">Next Chapter</h3></a></td></tr>';
+	$result .= '<tr><td colspan="2"><a href="#" hx-get="reader.php?lang='.$lang.'&chapter='.$chapter.'" hx-trigger="click" hx-target="#translation-table tbody" hx-swap="show:top"><h3 class="mt-2">Next Chapter</h3></a></td></tr>';
 }
 
 echo $result; // Responce received by HTMX
