@@ -1,24 +1,37 @@
 <?php 
 
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+$inDevlopment = false;
+
+if ($inDevlopment) {
+	ini_set('display_errors', 1);
+	ini_set('display_startup_errors', 1);
+	error_reporting(E_ALL);
+}
 
 // https://github.com/enfrte/salute-jonathan/blob/master/translations/finnish/sj_finnish_01.txt
 
 if ( !empty($_GET['lang']) ) {
 	$lang = $_GET['lang'];
-} else {
-	return 'Language not set';
+} 
+elseif (!empty($_POST['lang'])) {
+	$lang = $_POST['lang'];	
+} 
+else {
+	return;
 }
 
-$chapter = !empty($_GET['chapter']) ? $_GET['chapter'] : '01';
-
-// if ($chapter < 10) {
-// 	$chapter = '0' . $chapter;
-// }
-
-$inDevlopment = false;
+if ( !empty($_POST['chapter']) ) {
+	$chapter = $_POST['chapter'];
+	if ($chapter < 10) {
+		$chapter = '0' . $chapter;
+	}
+}
+elseif ( !empty($_GET['chapter']) ) {
+	$chapter = $_GET['chapter'];
+}
+else {
+	$chapter = '01';
+}
 
 if ($inDevlopment) {
 	$baseUrl = __DIR__.'/translations/';
@@ -32,7 +45,8 @@ $url = $baseUrl . $lang . "/sj_" . $lang . "_" . $chapter. ".txt";
 $fileContents = file_get_contents($url);
 
 if ( empty($fileContents) ) {
-	echo "File not found: " . $url;
+	echo '<p class="pt-3">File not found: ' . $url . '</p>';
+	echo '<h5 class="pb-3">The translation might be incomplete</h5>';
 	return;
 }
 

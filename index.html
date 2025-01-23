@@ -13,7 +13,7 @@
 </head>    
 <body class="bg-dark">
 
-    <div style="max-width: 1000px;" class="container mb-3 mt-3">
+    <!-- <div style="max-width: 1000px;" class="container mb-3 mt-3">
         <select 
             name="lang"
             class="form-select"
@@ -23,6 +23,30 @@
             <option value="">Select a translation</option>
             <option value="finnish">Finnish</option>
         </select>
+    </div> -->
+
+    <div style="max-width: 1000px;" class="container mb-3 mt-3">
+        <h3 class="text-light">Salute Jonathan</h3>
+        <form class="row g-3 align-items-center" hx-post="/salute-jonathan/reader.php" hx-trigger="submit" hx-target="#translation-table tbody">
+            <div class="col-auto">
+                <label for="chapterInput" class="form-label visually-hidden">Enter a chapter</label>
+                <input type="number" class="form-control" id="chapterInput" name="chapter" value="1" required>
+            </div>
+            <div class="col-auto">
+                    <select 
+                    name="lang"
+                    class="form-select"
+                    hx-get="/salute-jonathan/reader.php"
+                    hx-trigger="change"
+                    hx-target="#translation-table tbody">
+                    <option value="" disabled>Select a translation</option>
+                    <option value="finnish">Finnish</option>
+                </select>
+            </div>
+            <div class="col-auto">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </form>
     </div>
 
     <div style="max-width: 1000px;" class="container bg-light">
