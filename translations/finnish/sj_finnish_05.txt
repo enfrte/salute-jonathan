@@ -17,7 +17,7 @@ Then he asks in German: "What is the letter?
 Sitten hän kysyy saksaksi: "Mikä tämä kirje on?
 
 What did Dracula write in the letter?"
- Mitä Dracula on kirjoittanut kirjeeseen?"
+Mitä Dracula on kirjoittanut kirjeeseen?"
 
 But the hotelier says: "I do not speak German, I do not speak German."
 Mutta hotellinpitäjä sanoo: "En puhu saksaa, en puhu saksaa."
@@ -70,8 +70,8 @@ Please do not talk about bad things."
 The old woman: "Do you not know that today is Saint George's Day? 
 Vanha nainen: "Etkö tiedä, että tänään on Pyhän Yrjön päivä?
 
-At decided (12) hours the bad things will come! 
-Päätettyinä (12) tunteina pahat asiat tulevat!
+At twelve (12) o'clock the bad things will come! 
+Kahdeltatoista (12) tunnilta pahat asiat tulevat!
 
 Do you know where you are going?"
 Tiedätkö, minne olet menossa?"
