@@ -1,4 +1,5 @@
-### Chapter 7
+## Chapter 7
+## Luku 7
 
 The coach goes, and it goes; it continues to go.  
 Vaunut kulkevat, ja kulkevat; ne jatkavat kulkemista.  
@@ -173,4 +174,3 @@ Tämä päivä on ollut pitkä Jonathanille.
 
 But now the other journey begins.  
 Mutta nyt toinen matka alkaa.  
-
