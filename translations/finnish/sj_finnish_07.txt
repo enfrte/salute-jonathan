@@ -7,7 +7,7 @@ Vaunut kulkevat, ja kulkevat; ne jatkavat kulkemista.
 Jonathan sees many things from the coach.
 Jonathan näkee monia asioita vaunuista.
 
-He is in the coach, and the things are not in the coach; he sees them from the coach.
+He is in the coach, and the things not in the coach; he sees them from the coach. 
 Hän on vaunuissa, ja asiat eivät ole vaunuissa; hän näkee ne vaunuista.
 
 He sees crosses, many crosses.
@@ -85,7 +85,7 @@ Jonathan ajattelee: "Miksi on hyvä, että olemme saapuneet tänne tuntia aikais
 Now the coachman speaks to Jonathan with a loud voice.
 Nyt ajuri puhuu Jonathanille kovalla äänellä.
 
-He says: "Jonathan, the Herr (German: the Lord) will not come here today. 
+He says: "Jonathan, the Herr (German: the Count) will not come here today. 
 Hän sanoo: "Jonathan, herr Herr (saksaksi: herra) ei tule tänne tänään.
 
 He will go to another city, the city of Bukovina. 
@@ -103,7 +103,7 @@ En tiedä.
 We must leave."
 Meidän täytyy lähteä."
 
-Jonathan is sad and thinks: "Why is Lord Dracula not here?
+Jonathan is sad and thinks: "Why is Count Dracula not here?
 Jonathan on surullinen ja ajattelee: "Miksi herra Dracula ei ole täällä?
 
 Why must I leave?"
@@ -154,7 +154,7 @@ Kyllä, tiedän mitä ajattelet.
 I am more intelligent than you.
 Olen älykkäämpi kuin sinä.
 
-Give me the luggage of the English Lord."
+Give me the luggage of the English Sir."
 Anna minulle englantilaisen herran matkatavarat."
 
 The coachman gives Jonathan's luggage to the other coachman.

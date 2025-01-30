@@ -4,7 +4,7 @@
 Now Jonathan sits in the large coach with the coachman.
 Nyt Jonathan istuu suuressa vaunuissa ajurin kanssa.
 
-The coachman speaks in excellent German: "The night is cold, my sir.
+The coachman speaks in excellent German: "The night is cold, my Sir.
 Ajuri puhuu erinomaisesti saksaa: "Yö on kylmä, herrani.
 
 This is brandy, a drink made from plums.
@@ -49,13 +49,13 @@ Jonathan miettii, mikä aika on.
 He looks at his watch.
 Hän katsoo kelloaan.
 
-The watch shows the time: it is ten o'clock.
+The watch shows the time: it is twelve o'clock.
 Kello näyttää aikaa: kello on kymmenen.
 
-Ah... ten o'clock, it is midnight.
+Ah... twelve o'clock, it is midnight.
 Ah... kello kymmenen, se on keskiyö.
 
-Jonathan knows that the people in Romania had spoken to him about midnight, about ten o'clock, and they said that ten o'clock is a bad time.
+Jonathan knows that the people in Romania had spoken to him about midnight, about twelve o'clock, and they said that twelve o'clock is a bad time.
 Jonathan tietää, että Romanian ihmiset olivat puhuneet hänelle keskiyöstä, kello kymmenestä, ja he sanoivat, että kello kymmenen on huono aika.
 
 Now Jonathan hears a sound, the sound of many dogs.
@@ -124,7 +124,7 @@ Hän ajaa vaunuja.
 He does not speak about the wolves, he does not speak about the mountain, he only drives the coach.
 Hän ei puhu susista, hän ei puhu vuoresta, hän vain ajaa vaunuja.
 
-But once Jonathan sees a blue flame, and the coachman stops the coach and goes to see it.
+But when Jonathan sees a blue flame, the coachman stops the coach and goes to see it.
 Mutta kerran Jonathan näkee sinisen liekin, ja ajuri pysäyttää vaunut ja menee katsomaan sitä.
 
 Later Jonathan sees the flames, once, twice, many times.
@@ -133,7 +133,7 @@ Myöhemmin Jonathan näkee liekit, kerran, kahdesti, monta kertaa.
 Jonathan does not know what the blue flames are.
 Jonathan ei tiedä, mitä siniset liekit ovat.
 
-Once the coachman stops the coach and goes far away.
+The coachman stops the coach and goes far away.
 Kerran ajuri pysäyttää vaunut ja menee kauas pois.
 
 Now Jonathan is alone with the horses.
