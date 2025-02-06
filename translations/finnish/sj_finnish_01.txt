@@ -164,7 +164,7 @@ He thinks about the city, and he thinks about the journal.
 Hän ajattelee kaupunkia, ja hän ajattelee päiväkirjaa.
 
 What is the journal?
-Mikä on päiväkirja?
+Mikä on se päiväkirja?
 
 The journal is where the man writes; he writes in the journal.
 Päiväkirja on se, mihin mies kirjoittaa; hän kirjoittaa päiväkirjaan.
@@ -179,7 +179,7 @@ He does not think about the train; he thinks about the city, the city Munich.
 Hän ei ajattele junaa; hän ajattelee kaupunkia, kaupunkia Müncheniä.
 
 What is the city?
-Mikä on kaupunki?
+Mikä on se kaupunki?
 
 It is Munich.
 Se on München.

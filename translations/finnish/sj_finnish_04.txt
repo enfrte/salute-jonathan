@@ -104,7 +104,7 @@ The name of the food was 'paprika hendl'.
 Ruoan nimi oli 'paprika hendl'.
 
 It is very good, the food in Klausenburg.
-Se on hyvin hyvää, ruoka Klausenburgissa.
+Se on erittäin hyvää, ruoka Klausenburgissa.
 
 The hotel was good, but I didn't sleep well.
 Hotelli oli hyvä, mutta en nukkunut hyvin.

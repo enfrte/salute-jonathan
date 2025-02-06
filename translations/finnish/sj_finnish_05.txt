@@ -47,7 +47,7 @@ After an hour he must depart.
 Tunnin kuluttua hänen täytyy lähteä.
 
 But look! An old woman comes to his room.
-Mutta katsopa! Vanha nainen tulee hänen huoneeseensa.
+Mutta katso! Vanha nainen tulee hänen huoneeseensa.
 
 The old woman: "Why are you leaving?  
 Vanha nainen: "Miksi olet lähdössä?
@@ -59,10 +59,10 @@ Today is not a good day!
 Tänään ei ole hyvä päivä!
 
 It is a bad day, a day with bad things!"
-Se on huono päivä, päivä pahoja asioita varten!"
+Tämä on huono päivä, pahaa sisältävä paivä!"
 
 Jonathan: "I am good, I am going to see a friend. 
-Jonathan: "Minä olen hyvä, olen menossa tapaamaan ystävää.
+Jonathan: "Minä olen hyvin, olen menossa tapaamaan ystävää.
 
 Please do not talk about bad things."
 Älä puhu pahoista asioista."
@@ -71,16 +71,16 @@ The old woman: "Do you not know that today is Saint George's Day?
 Vanha nainen: "Etkö tiedä, että tänään on Pyhän Yrjön päivä?
 
 At twelve (12) o'clock the bad things will come! 
-Kahdeltatoista (12) tunnilta pahat asiat tulevat!
+Kello kahdeltatoista (12) pahat asiat tulevat!
 
 Do you know where you are going?"
 Tiedätkö, minne olet menossa?"
 
 Jonathan: "No no, everything is good. 
-Jonathan: "Ei ei, kaikki on hyvää.
+Jonathan: "Ei ei, kaikki on hyvin.
 
 I am good, and today bad things will not come."
-Minä olen hyvä, eikä tänään tule pahoja asioita."
+Minä olen hyvin, eikä tänään tule pahoja asioita."
 
 The old woman: "Please do not depart! 
 Vanha nainen: "Älä lähde!
@@ -95,22 +95,22 @@ Please do not cry."
 Älä itke."
 
 The old woman: "Look at a crucifix. 
-Vanha nainen: "Katso ristiinnaulittua.
+Vanha nainen: "Katso krusifiksia.
 
 The crucifix is for you."
-Ristiinnaulittu on sinua varten."
+Krusifiksi on sinua varten."
 
 Jonathan: "Ah...the English do not like crucifixes...but thank you. 
-Jonathan: "Ah... englantilaiset eivät pidä ristiinnaulituista... mutta kiitos. 
+Jonathan: "Ah... englantilaiset eivät pidä krusifikseista... mutta kiitos. 
 
 Please do not cry."
 Älä itke."
 
 Jonathan thinks: "In England we love crosses, but not crucifixes. 
-Jonathan ajattelee: "Englannissa me rakastamme ristejä, mutta emme ristiinnaulittuja.
+Jonathan ajattelee: "Englannissa me rakastamme ristejä, mutta emme krusifikseja.
 
 In Romania people love crucifixes, not crosses."
-Romaniassa ihmiset rakastavat ristiinnaulittuja, eivät ristejä."
+Romaniassa ihmiset rakastavat krusifikseja, eivät ristejä."
 
 Now the old woman goes and Jonathan is alone in his room.
 Nyt vanha nainen menee ja Jonathan on yksin huoneessaan.
@@ -119,7 +119,7 @@ He thinks: "This place is strange!
 Hän ajattelee: "Tämä paikka on outo! 
 
 An old woman who gives crucifixes!
-Vanha nainen, joka antaa ristiinnaulittuja!
+Vanha nainen, joka antaa krusifikseja!
 
 But I must depart."
 Mutta minun täytyy lähteä."
