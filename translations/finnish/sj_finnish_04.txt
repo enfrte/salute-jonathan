@@ -47,7 +47,7 @@ Budapest is different."
 Budapest on erilainen."
 
 He thinks a bit more about Budapest.
-Hän ajattelee vähän lisää Budapestista.
+Hän ajattelee vähän lisää Budapestia.
 
 He thinks: "I am a person who comes from England, from London.
 Hän ajattelee: "Olen henkilö, joka tulee Englannista, Lontoosta.
@@ -137,7 +137,7 @@ In the hotel I said my name: 'I am Jonathan Harker' and they said to me: 'Welcom
 Hotellissa sanoin nimeni: 'Olen Jonathan Harker' ja he sanoivat minulle: 'Tervetuloa hotelliin.'
 
 In the hotel I saw a letter for me.
-Hotellissa näin kirjeen minulle.
+Hotellissa näin kirjeen, joka oli minulle.
 
 Now I will read my letter."
 Nyt luen kirjeeni."
@@ -164,7 +164,7 @@ Your friend, DRACULA.
 Ystäväsi, DRACULA.
 
 Jonathan reads the letter and thinks about his friend Count Dracula.
-Jonathan lukee kirjeen ja ajattelee ystäväänsä Kreivi Draculaa.
+Jonathan lukee kirjeen ja ajattelee ystäväänsä, kreivi Draculaa.
 
 Who is he?
 Kuka hän on?
