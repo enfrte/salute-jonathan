@@ -22,8 +22,8 @@ Mitä Dracula on kirjoittanut kirjeeseen?"
 But the hotelier says: "I do not speak German, I do not speak German."
 Mutta hotellinpitäjä sanoo: "En puhu saksaa, en puhu saksaa."
 
-Jonathan thinks: "Strange! Yesterday you spoke with the hotelier in German, and now he says he does not speak German! Why?"
-Jonathan ajattelee: "Outoa! Eilen puhuit hotellinpitäjän kanssa saksaa, ja nyt hän sanoo, ettei puhu saksaa! Miksi?"
+Jonathan thinks: "Strange! Yesterday I spoke with the hotelier in German, and now he says he does not speak German! Why?"
+Jonathan ajattelee: "Outoa! Eilen puhuin hotellinpitäjän kanssa saksaa, ja nyt hän sanoo, ettei puhu saksaa! Miksi?"
 
 He asks the hotelier: "Do you know who Count Dracula is?" but now the hotelier does not speak.
 Hän kysyy hotellinpitäjältä: "Tiedätkö kuka Kreivi Dracula on?" mutta nyt hotellinpitäjä ei puhu.
