@@ -1,6 +1,9 @@
 ## Chapter 5
 ## Luku 5
 
+May 4th.
+Neljäs toukokuuta.
+
 Today Jonathan will travel to Count Dracula's place.
 Tänään Jonathan matkustaa Kreivi Druculan luokse.
 
@@ -59,7 +62,7 @@ Today is not a good day!
 Tänään ei ole hyvä päivä!
 
 It is a bad day, a day with bad things!"
-Tämä on huono päivä, pahaa sisältävä paivä!"
+Tämä on huono päivä, pahaa sisältävä päivä!"
 
 Jonathan: "I am good, I am going to see a friend. 
 Jonathan: "Minä olen hyvin, olen menossa tapaamaan ystävää.

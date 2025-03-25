@@ -664,8 +664,6 @@ Then he sleeps.
 ## Chapter 5
 ## Luku 5
 
-I'll translate the Occidental text to English, putting each sentence on its own line:
-
 Quaresim May (= 4 May)
 
 Today Jonathan will travel to Count Dracula's place.
