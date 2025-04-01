@@ -14,7 +14,7 @@ Jonathan seisoo vaunujen edessä ja odottaa ajuria.
 "Missä ajuri on?" hän ajattelee.  
 
 "Ah, there's the coachman – he talks with the hotelier."  
-"Ah, tuolla on ajuri – hän puhuu hotellinomistajan kanssa."  
+"Ah, tuolla on ajuri – hän puhuu hotellinpitäjän kanssa."  
 
 "What are they talking about?"  
 "Mistä he puhuvat?"  
@@ -59,10 +59,10 @@ Now the journey begins.
 Nyt matka alkaa.  
 
 Jonathan sits in the carriage.  
-Jonathan istuu vaunuihin.  
+Jonathan menee vaunuihin.  
 
 The other people also sit in the carriage.  
-Muutkin ihmiset istuvat vaunuihin.  
+Muutkin ihmiset menevat vaunuihin.  
 
 Jonathan sees the land around him and thinks that it is beautiful.  
 Jonathan katsoo ympärillään olevaa maata ja ajattelee, että se on kaunis.  
@@ -143,7 +143,7 @@ It is six o'clock.
 Kello on kuusi.  
 
 When Jonathan sat in the carriage it was morning.  
-Kun Jonathan istui vaunuihin, oli aamu.  
+Kun Jonathan menee vaunuihin, oli aamu.  
 
 Later came midday.  
 Myöhemmin tuli keskipäivä.  
