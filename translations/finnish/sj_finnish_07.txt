@@ -125,7 +125,7 @@ The new coach is richer and larger than the coach in which Jonathan is sitting.
 Uudet vaunut ovat ylellisemmät ja suuremmat kuin ne vaunut, joissa Jonathan istuu.
 
 The four horses are black and very large.
-Neljän hevosta ovat mustia ja erittäin suuria.
+Neljä hevosta on mustia ja erittäin suuria.
 
 In the new coach, Jonathan sees another coachman.
 Uusissa vaunuissa Jonathan näkee toisen ajurin.
@@ -143,7 +143,7 @@ The other coachman says: "You have arrived here quickly, my friend."
 Toinen ajuri sanoo: "Olet saapunut tänne nopeasti, ystäväni."
 
 The coachman: "Ah...the English Herr wanted to go quickly..."
-Ajuri: "Aa...englannin Herr halusi mennä nopeasti..."
+Ajuri: "Aa...englantilainen Herr halusi mennä nopeasti..."
 
 The other coachman: "I know that you wanted to go to Bukovina.
 Toinen ajuri: "Tiedän, että halusit mennä Bukovinaan.
@@ -164,7 +164,7 @@ The other coachman is very strong; Jonathan sees that he is strong when he sees 
 Toinen ajuri on erittäin vahva; Jonathan näkee hänen olevan vahva, kun hän näkee hänen kätensä.
 
 The other coachman takes the luggage with his strong hands, and very quickly the task is finished.
-Toinen ajuri ottaa matkatavarat vahvoilla käsillään, ja tehtävä on erittäin nopeasti valmis.
+Toinen ajuri ottaa matkatavarat vahvoilla käsillään, ja tehtävä valmistuu erittäin nopeasti.
 
 Now Jonathan sits in the other coach.
 Nyt Jonathan istuu toisissa vaunuissa.
