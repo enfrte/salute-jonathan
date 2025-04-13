@@ -2,13 +2,13 @@
 ## Luku 8
 
 Now Jonathan sits in the large coach with the coachman.
-Nyt Jonathan istuu suuressa vaunuissa ajurin kanssa.
+Nyt Jonathan istuu suurissa vaunuissa ajurin kanssa.
 
 The coachman speaks in excellent German: "The night is cold, my Sir.
 Ajuri puhuu erinomaisesti saksaa: "Yö on kylmä, herrani.
 
 This is brandy, a drink made from plums.
-Tämä on brandyä, juomaa, joka on tehty luumuista.
+Tämä on brandyä, juomaa, joka on valmistettu luumuista.
 
 Please drink it if you want to drink."
 Ole hyvä ja juo sitä, jos haluat juoda."
@@ -125,7 +125,7 @@ He does not speak about the wolves, he does not speak about the mountain, he onl
 Hän ei puhu susista, hän ei puhu vuoresta, hän vain ajaa vaunuja.
 
 But when Jonathan sees a blue flame, the coachman stops the coach and goes to see it.
-Mutta kun Jonathan näkee sinisen liekin, ja ajuri pysäyttää vaunut ja menee katsomaan sitä.
+Mutta kun Jonathan näkee sinisen liekin, ajuri pysäyttää vaunut ja menee katsomaan sitä.
 
 Later Jonathan sees the flames, once, twice, many times.
 Myöhemmin Jonathan näkee liekit, kerran, kahdesti, monta kertaa.
@@ -155,7 +155,7 @@ Seeing the moon, the wolves begin to howl.
 Kun he näkevät kuun, sudet alkavat ulvoa.
 
 Hearing the howling wolves, the horses begin to move.
-Kuullessaan ulvovat sudet hevoset alkavat liikkua.
+Kuullessaan ulvovat sudet, hevoset alkavat liikkua.
 
 Jonathan knocks on the coach.
 Jonathan koputtaa vaunuihin.
