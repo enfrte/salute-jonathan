@@ -113,7 +113,7 @@ Dracula: "Yes, but if I were in London, people would not think I am an Englishma
 Dracula: "Kyllä, mutta jos olisin Lontoossa, ihmiset eivät ajattelisi, että olen englantilainen.
 
 They would see me and think: 'That man is a foreigner.'
-He näkivät minut ja ajattelisivat: 'Tuo mies on ulkomaalainen.'
+He näkisivät minut ja ajattelisivat: 'Tuo mies on ulkomaalainen.'
 
 I want to speak better English, so people do not think I am a foreigner.
 Haluan puhua parempaa englantia, jotta ihmiset eivät ajattelisi, että olen ulkomaalainen.
