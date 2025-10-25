@@ -1,6 +1,9 @@
 Jonathan wakes up in his bed.
 Jonathan herää sängystään.
 
+Jonathan wonders whether the women were real, or whether he saw them while he slept.
+Jonathan miettii, olivatko naiset todellisia vai näkikö hän heidät nukkuessaan.
+
 He sees his clothes, and his watch.
 Hän näkee vaatteensa ja kellonsa.
 
@@ -12,9 +15,6 @@ Myös hänen kellonsa on asetettu hieman eri tavalla.
 
 Has Dracula done it?
 Onko Dracula tehnyt sen?
-
-Jonathan wonders whether he has slept, whether the women were real, or whether he saw them while he slept.
-Jonathan miettii, nukkuiko hän, olivatko naiset todellisia, vai näkikö hän heidät unessa.
 
 Jonathan thinks: "I must look hard (carefully) and see if Dracula has done these things.
 Jonathan ajattelee: "Minun täytyy katsoa tarkasti ja nähdä, onko Dracula tehnyt nämä asiat.
@@ -97,7 +97,7 @@ Kenelle?
 What must I write?"
 Mitä minun täytyy kirjoittaa?"
 
-Dracula: "In the first letter, please write like this: 
+Dracula: "In the first letter, please write this: 
 Dracula: "Ensimmäiseen kirjeeseen kirjoita näin:
 
 'I have done almost everything for Dracula and I will return soon.
@@ -109,7 +109,7 @@ Muutaman päivän kuluttua lähden.'"
 Jonathan: "And the second letter?"
 Jonathan: "Entä toinen kirje?"
 
-Dracula: "In the second letter, please write like this: 
+Dracula: "In the second letter, please write this: 
 Dracula: "Toiseen kirjeeseen kirjoita näin:
 
 'I will leave tomorrow morning.
@@ -162,7 +162,6 @@ Se johtuu siitä, että posti täällä on epäluotettava.
 
 It will help so that your friends in London will not be worried about you."
 Se auttaa siihen, etteivät ystäväsi Lontoossa huolestu sinusta."
-
 
 Jonathan: "I understand.
 Jonathan: "Ymmärrän.
